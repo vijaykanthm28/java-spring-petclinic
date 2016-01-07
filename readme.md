@@ -46,7 +46,7 @@ File -> Import -> Maven -> Existing Maven project
 
 <table>
 <tr>
-<th> width="600px">Megam Systems</th>
+<th> width="600px"><h1 color="RED">Megam Systems</h1></th>
 </tr>
   <tr>
     <th width="300px">Inside the 'Web' layer</th><th width="300px">Files</th>
