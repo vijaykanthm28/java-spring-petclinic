@@ -1,4 +1,4 @@
-
+Welcome to Spring PetClinic Sample Application
 
 
 # Spring PetClinic Sample Application
