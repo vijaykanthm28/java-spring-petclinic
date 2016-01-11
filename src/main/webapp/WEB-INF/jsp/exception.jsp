@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -12,13 +12,13 @@
     <spring:url value="/resources/images/pets.png" var="petsImage"/>
     <img src="${petsImage}"/>
 
-    <h2>Something happened...</h2>
+    <h2>Something happened MEGAM SYSTEM...</h2>
 
     <p>${exception.message}</p>
 
     <!-- Exception: ${exception.message}.
-		  	<c:forEach items="${exception.stackTrace}" var="stackTrace"> 
-				${stackTrace} 
+		  	<c:forEach items="${exception.stackTrace}" var="stackTrace">
+				${stackTrace}
 			</c:forEach>
 	  	-->
 
