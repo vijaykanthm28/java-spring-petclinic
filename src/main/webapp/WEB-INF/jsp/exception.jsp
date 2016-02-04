@@ -15,7 +15,7 @@
     <h2>Something happened ...</h2>
 
     <p>${exception.message}</p>
-    <h1> MEGAM SYSTEMS JAVA APP </p>
+    <h1> MEGAM SYSTEMS </p>
 
     <!-- Exception: ${exception.message}.
 		  	<c:forEach items="${exception.stackTrace}" var="stackTrace">
